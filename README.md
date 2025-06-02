@@ -35,7 +35,7 @@ Demonstrar os ganhos de desempenho ao utilizar programação paralela para reali
 │   ├── util.c               # Funções auxiliares: alocar, salvar, carregar, liberar
 │   ├── util.h               # Protótipos das funções auxiliares
 │   ├── A.txt                # Arquivo gerado pelo benchmark com matriz A
-│   ├── B.txt 
+│   ├── B.txt                # Arquivo gerado pelo benchmark com matriz B
 │   └── benchmark.py         # Script Python para gerar matrizes, executar testes e plotar gráficos
 │
 ├── slides/
