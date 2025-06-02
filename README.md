@@ -29,6 +29,9 @@ Demonstrar os ganhos de desempenho ao utilizar programação paralela para reali
 
 ```
 .
+├── slides/
+│   └── apresentacao.pptx    # Slides da apresentação
+│
 ├── src/
 │   ├── sequencial.c         # Multiplicação sequencial (lê A.txt e B.txt)
 │   ├── paralelo.c           # Multiplicação com threads (lê A.txt e B.txt)
@@ -37,9 +40,6 @@ Demonstrar os ganhos de desempenho ao utilizar programação paralela para reali
 │   ├── A.txt                # Arquivo gerado pelo benchmark com matriz A
 │   ├── B.txt                # Arquivo gerado pelo benchmark com matriz B
 │   └── benchmark.py         # Script Python para gerar matrizes, executar testes e plotar gráficos
-│
-├── slides/
-│   └── apresentacao.pptx    # Slides da apresentação
 │
 └── README.md
 ```
