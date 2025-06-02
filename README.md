@@ -34,7 +34,7 @@ Demonstrar os ganhos de desempenho ao utilizar programação paralela para reali
 │   ├── paralelo.c           # Multiplicação com threads (lê A.txt e B.txt)
 │   ├── util.c               # Funções auxiliares: alocar, salvar, carregar, liberar
 │   ├── util.h               # Protótipos das funções auxiliares
-│   ├── A.txt                    # Arquivo gerado pelo benchmark com matriz A
+│   ├── A.txt                # Arquivo gerado pelo benchmark com matriz A
 │   ├── B.txt 
 │   └── benchmark.py         # Script Python para gerar matrizes, executar testes e plotar gráficos
 │
