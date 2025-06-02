@@ -65,6 +65,7 @@ Certifique-se de que os arquivos `sequencial` e `paralelo` já estejam compilado
 
 ```bash
 python benchmark.py
+```
 
 ## 📊 Resultados
 
