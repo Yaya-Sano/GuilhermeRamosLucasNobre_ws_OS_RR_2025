@@ -30,7 +30,7 @@ Demonstrar os ganhos de desempenho ao utilizar programação paralela para reali
 ```
 .
 ├── slides/
-│   └── apresentacao.pptx    # Slides da apresentação
+│   └── apresentacao.pdf    # Slides da apresentação
 │
 ├── src/
 │   ├── sequencial.c         # Multiplicação sequencial (lê A.txt e B.txt)
@@ -140,7 +140,7 @@ Os valores exatos dependem do hardware, mas você verá claramente que a versão
 
 ## 📎 Slides da Apresentação
 
-Os slides de apoio estão em `slides/apresentacao.pptx`. Eles detalham:
+Os slides de apoio estão em `slides/apresentacao.pdf`. Eles detalham:
 
 ---
 
