@@ -1,3 +1,4 @@
+
 # Cálculo Paralelo de Matrizes com Multithreading
 
 Este projeto implementa a multiplicação de matrizes em linguagem C, com duas versões:
@@ -21,7 +22,7 @@ Demonstrar os ganhos de desempenho ao utilizar programação paralela para reali
 - Biblioteca de threads: `pthread.h`
 - Sistema operacional alvo: Windows / Linux
 - Compilador: `gcc`
-- Benchmark e plotagem: **Python 3** + `matplotlib`
+- Benchmark e plotagem: **Python 3** + `matplotlib` + `numpy`
 
 ---
 
@@ -105,7 +106,7 @@ O arquivo `benchmark.py` está no mesmo diretório dos executáveis. Ele realiza
 Certifique-se de ter Python 3 instalado e, no terminal do sistema operacional, rode:
 
 ```bash
-pip install matplotlib
+pip install matplotlib numpy
 ```
 
 ### 2. Como Executar
@@ -127,7 +128,7 @@ python benchmark.py
 
 ## 📊 Resultados
 
-Após rodar `benchmark.py`, a janela do gráfico mostrará algo como:
+Após rodar `benchmark.py`, a janela mostrará um gráfico do seguinte estilo:
 
 | Método      | Tempo (s) |
 |-------------|-----------|
