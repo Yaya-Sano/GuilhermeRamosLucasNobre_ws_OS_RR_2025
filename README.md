@@ -140,7 +140,7 @@ Os valores exatos dependem do hardware, mas você verá claramente que a versão
 
 ## 📎 Slides da Apresentação
 
-Os slides de apoio estão em `slides/apresentacao.pdf`. Eles detalham:
+Os slides de apoio estão em `slides/apresentacao.pdf`.
 
 ---
 
